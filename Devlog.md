@@ -13,3 +13,6 @@ created evenmoretesting.py with ai
 Mostly took a big break but finished analyze.py now starting to code extract and place some commands also somehow forgot to connect to github which ill do today.
 
 Connected the github and created everything i needed to code the rest of the files.
+
+# Day 19
+Finished raw text and automatic detecting of tesseract and ocr
