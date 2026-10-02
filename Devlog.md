@@ -16,3 +16,14 @@ Connected the github and created everything i needed to code the rest of the fil
 
 # Day 19
 Finished raw text and automatic detecting of tesseract and ocr
+
+# Day 20 
+Finished clean registration text in school and started coding extract department letter.
+
+# Day 21
+Completed the entire pipeline and fixed all bugs:
+- Implemented `isolate_plate_region` and `preprocess_plate_region` in `Utils/ProcessFinal.py`.
+- Fixed indentation, syntax, and OCR extraction logic in `Utils/Extract.py`.
+- Fixed color classification ratios and pipeline orchestration in `Utils/Analyze.py`.
+- Resolved CLI execution in `Kachow.py` with case-insensitive image path support.
+- All integration tests in `testing.py` pass.
