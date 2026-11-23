@@ -7,9 +7,9 @@ Bolivian license plate scanner works usinng opencv and ocr.
 - **License Number Detection**: Extracts the license plate automaticaly and in less than 1 second it recognizes the plaque.
 - **Vehicle Type Classification**: 
 Identifies the vehicle type using the license plate color.
-  - **Electric**: Blue background (`vehicle_type: "electric"`, `is_electric: true`)
-  - **Flex-Fuel**: Green background (`vehicle_type: "flexfuel"`, `is_electric: false`)
-  - **Combustion**: White/metallic background (`vehicle_type: "combustion"`, `is_electric: false`)
+  - **Electric**: blue background
+  - **Flex-Fuel**: green background 
+  - **Combustion**: white background 
 - **Department Origin Detection**: 
 Detects the cars department using the letter on the top right side.
 
